@@ -69,4 +69,4 @@ Ma présentation personnelle
 
 https://ravotcyril.github.io/PortfolioCyrilRavot/index.html
 
-                                                  Merci pour votre visite et à bientôt peux être !  !  
+                                        Merci pour votre visite et à bientôt peux être !  !  
