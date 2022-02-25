@@ -10,7 +10,9 @@ Si vous voullez regarder mes différents projets effectués pendant ma formation
 
 ![logo-css50](https://user-images.githubusercontent.com/76429223/155630820-e6d89416-9b7c-4e18-a4d9-c6ad7a776707.png)
 
-class="fab fa-github"  https://github.com/RavotCyril/RavotCyril_2_01012021
+![image](https://user-images.githubusercontent.com/76429223/155630988-9b8937ea-384b-490f-be32-1c244704d95e.png)
+
+https://github.com/RavotCyril/RavotCyril_2_01012021
 
 Vous pouvez également regarder mes projets personnelles en cour de construction :
 
