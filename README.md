@@ -1,4 +1,5 @@
 Bienvenue sur ma page GitHuB
+![maxresdefault](https://user-images.githubusercontent.com/76429223/155630038-1e573084-f1d3-471a-8812-3ec08133341f.jpg)
 
 
 Je suis un développeur Web Junior qui est sur le point de terminer la formation développeur Web chez OpenClassRooms. 
