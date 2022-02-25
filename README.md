@@ -3,7 +3,7 @@
 
 
 Je suis un développeur Web en devenir qui est sur le point de terminer ça formation chez OpenClassRooms. 
-
+Cela ma permit d'apprendre énormement de langages, d'outils et de commencer à construire des sites webs. Voici - ci-dessous les différents langages et outils utilisés pendant ma formation. 
 
 Langages : 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
