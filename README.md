@@ -2,8 +2,8 @@
 ![maxresdefault](https://user-images.githubusercontent.com/76429223/155630038-1e573084-f1d3-471a-8812-3ec08133341f.jpg)
 
 
-Je suis un développeur Web Junior qui est sur le point de terminer ça formation développeur Web chez OpenClassRooms. 
-Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus en plus dans ce grand univers qui est le développement Web.
+Je suis un développeur Web en devenir qui est sur le point de terminer ça formation développeur Web chez OpenClassRooms. 
+
 
 Langages : 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
