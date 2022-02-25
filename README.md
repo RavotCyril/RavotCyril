@@ -19,9 +19,7 @@ JS
 
 ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
 NODE    
-
 ![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
-
 ![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632924-b434179d-2f50-4ebc-9963-cfbaf7ccabb7.png)
 
 Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
