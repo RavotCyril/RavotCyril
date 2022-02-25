@@ -12,9 +12,7 @@ Si vous voullez regarder mes différents projets effectués pendant ma formation
 ![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
 ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
 ![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
-![logo-sql50](https://user-images.githubusercontent.com/76429223/155632176-ad1da1c5-54a5-43e7-adee-b3921a460d30.png)
-![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632373-9948d540-3a8d-483e-b9df-9800618c583e.png)
-
+![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632924-b434179d-2f50-4ebc-9963-cfbaf7ccabb7.png)
 https://ravotcyril.github.io/RavotCyril_2_01012021/
 https://ravotcyril.github.io/RavotCyril_3_01032021/
 https://ravotcyril.github.io/RavotCyril_4_03052021/
