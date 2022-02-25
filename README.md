@@ -6,13 +6,11 @@ Je suis un développeur Web Junior qui est sur le point de terminer la formation
 
 Si vous voullez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
 
-https://github.com/RavotCyril/RavotCyril_2_01012021
-https://github.com/RavotCyril/RavotCyril_3_01032021
-https://github.com/RavotCyril/RavotCyril_4_03052021
-https://github.com/RavotCyril/RavotCyril_4_Correction_12052021
-https://github.com/RavotCyril/RavotCyril_5_24052021
-https://github.com/RavotCyril/RavotCyril_6_25102021
-https://github.com/RavotCyril/RavotCyril_7_28112021
+![logo-html50](https://user-images.githubusercontent.com/76429223/155630818-b508eb9f-8c5f-432c-aa72-e1fc05bd6aaa.png)
+
+![logo-css50](https://user-images.githubusercontent.com/76429223/155630820-e6d89416-9b7c-4e18-a4d9-c6ad7a776707.png)
+
+class="fab fa-github"  https://github.com/RavotCyril/RavotCyril_2_01012021
 
 Vous pouvez également regarder mes projets personnelles en cour de construction :
 
