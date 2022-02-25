@@ -2,9 +2,7 @@
 ![maxresdefault](https://user-images.githubusercontent.com/76429223/155630038-1e573084-f1d3-471a-8812-3ec08133341f.jpg)
 
 
-Je suis un développeur Web Junior qui est sur le point de terminer la formation développeur Web chez OpenClassRooms. 
-
-Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
+Je suis un développeur Web Junior qui est sur le point de terminer la formation développeur Web chez OpenClassRooms. Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus en plus dans ce grand univers qui est le développement. 
 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
 ![logo-css50](https://user-images.githubusercontent.com/76429223/155632121-4730c6ab-0722-4ac9-922a-22fde0dca604.png)
@@ -16,12 +14,15 @@ Si vous voulez regarder mes différents projets effectués pendant ma formation 
 
 HTML CSS Boostrap JS
 
+Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
+
 https://ravotcyril.github.io/RavotCyril_2_01012021/
 https://ravotcyril.github.io/RavotCyril_3_01032021/
 https://ravotcyril.github.io/RavotCyril_4_03052021/
 https://ravotcyril.github.io/RavotCyril_4_Correction_12052021/
 https://ravotcyril.github.io/RavotCyril_5_24052021/
 https://ravotcyril.github.io/RavotCyril_6_25102021/
+
 
 
 Vous pouvez également regarder mes projets personnelles en cour de construction :
