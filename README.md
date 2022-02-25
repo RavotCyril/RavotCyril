@@ -11,7 +11,6 @@ Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus e
 ![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
 ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
 ![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
-
 ![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632924-b434179d-2f50-4ebc-9963-cfbaf7ccabb7.png)
 
 HTML5     CSS5      BOOSTRAP      JS      NODE      SEO       MySQL
