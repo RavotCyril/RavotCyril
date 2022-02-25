@@ -5,13 +5,39 @@
 Je suis un développeur Web Junior qui est sur le point de terminer ça formation développeur Web chez OpenClassRooms. 
 Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus en plus dans ce grand univers qui est le développement Web.
 
+Langages : 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
 HTML5                                           ![logo-css50](https://user-images.githubusercontent.com/76429223/155632121-4730c6ab-0722-4ac9-922a-22fde0dca604.png)
-CSS3                                            ![logo-bootstrap50](https://user-images.githubusercontent.com/76429223/155632126-dff5b774-610b-4ba8-b41c-a4bd647adcd2.png)
-BOOSTRAP                                        ![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
-JS                                              ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
-NODE                                            ![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
-                                                ![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632924-b434179d-2f50-4ebc-9963-cfbaf7ccabb7.png)
+CSS3                                            ![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
+JS                                              
+Framework d'interface : 
+![logo-bootstrap50](https://user-images.githubusercontent.com/76429223/155632126-dff5b774-610b-4ba8-b41c-a4bd647adcd2.png)
+BOOSTRAP
+
+
+Base de Données orientée SGBD NoSQL + SGBDR relationnelles: 
+![mongodb](https://user-images.githubusercontent.com/76429223/155638499-a04a1cc7-1ebb-4250-85a7-97340249574f.png)
+MONGODB
+![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155638642-2c8d2a55-7659-40d3-9947-8901a5f9d6a9.png)
+MYSQL
+
+Framework standard + outil permettant de communiquer avec le système grâce à différentes librairies:
+![express](https://user-images.githubusercontent.com/76429223/155638566-650ae829-c749-4d6a-b9e8-1d2a9623aa17.png)
+EXPRESS
+![1-42aKSdKAWZ3VtqT5ICd82w](https://user-images.githubusercontent.com/76429223/155638897-a3a15a3b-b9d3-4e4c-b37b-493122b9f981.png)
+Node JS
+
+
+
+Optimisation de développement + Outils de développement :
+![git](https://user-images.githubusercontent.com/76429223/155639715-56b33a81-74f2-4d43-ab81-418851a34665.png)
+Git
+![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg) 
+SEO
+
+Editeur de code :
+![Image1-1](https://user-images.githubusercontent.com/76429223/155640043-0e094cb9-662f-4087-958c-3588e325ee78.png)
+Visual Studio Code 
 
 Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
 
