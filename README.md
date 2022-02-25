@@ -7,14 +7,20 @@ Je suis un développeur Web Junior qui est sur le point de terminer la formation
 Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
+![logo-css50](https://user-images.githubusercontent.com/76429223/155632121-4730c6ab-0722-4ac9-922a-22fde0dca604.png)
+CSS
 
 HTML
 
-![logo-css50](https://user-images.githubusercontent.com/76429223/155632121-4730c6ab-0722-4ac9-922a-22fde0dca604.png)CSS
 
-![logo-bootstrap50](https://user-images.githubusercontent.com/76429223/155632126-dff5b774-610b-4ba8-b41c-a4bd647adcd2.png)Boostrap
 
-![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)JS
+![logo-bootstrap50](https://user-images.githubusercontent.com/76429223/155632126-dff5b774-610b-4ba8-b41c-a4bd647adcd2.png)
+
+Boostrap
+
+![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
+
+JS
 
 ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
 
