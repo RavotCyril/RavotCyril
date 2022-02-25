@@ -15,33 +15,33 @@ NODE                                            ![179-1795999_audit-seo-search-e
 
 Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
 
-                                                  https://ravotcyril.github.io/RavotCyril_2_01012021/
+                                      https://ravotcyril.github.io/RavotCyril_2_01012021/
 
 
 ![Reservia](https://user-images.githubusercontent.com/76429223/155634858-defe06f4-d711-4966-8b9b-4a4641244040.png)
 
 
-                                                  https://ravotcyril.github.io/RavotCyril_3_01032021/
+                                      https://ravotcyril.github.io/RavotCyril_3_01032021/
 
 ![ohmyfood](https://user-images.githubusercontent.com/76429223/155634865-77146dbe-8737-4aab-bea0-55926c23e35e.png)
 
 
-                                                  https://ravotcyril.github.io/RavotCyril_4_03052021/
+                                      https://ravotcyril.github.io/RavotCyril_4_03052021/
 
 ![La-Chouette-Agence-Page-Origine](https://user-images.githubusercontent.com/76429223/155634874-30533190-fe96-4c88-8bb1-f533239d564e.png)
 
 
-                                                  https://ravotcyril.github.io/RavotCyril_4_Correction_12052021/
+                                      https://ravotcyril.github.io/RavotCyril_4_Correction_12052021/
 
 ![La-Chouette-Agence-Page-Correctif](https://user-images.githubusercontent.com/76429223/155634901-b81cfc74-a706-4aed-ae2f-932ef9fa0884.png)
 
 
-                                                  https://ravotcyril.github.io/RavotCyril_5_24052021/
+                                      https://ravotcyril.github.io/RavotCyril_5_24052021/
 
 ![ORINOCO](https://user-images.githubusercontent.com/76429223/155634915-224371c7-431a-4fe6-9b76-923d9063f405.png)
 
 
-                                                  https://ravotcyril.github.io/RavotCyril_6_25102021/
+                                      https://ravotcyril.github.io/RavotCyril_6_25102021/
 
 ![Sauce-Piiquante](https://user-images.githubusercontent.com/76429223/155635455-a91b1585-52fc-4e72-9344-f936b06772fa.png)
 
@@ -52,14 +52,14 @@ Vous pouvez également regarder mes projets personnelles en cour de construction
 
 ->Site d'échecs sur les championnat du monde.
 
-                                                   https://ravotcyril.github.io/Sylvain-site-Test/
+                                      https://ravotcyril.github.io/Sylvain-site-Test/
 
  ![WorldChampionshipChess](https://user-images.githubusercontent.com/76429223/155635689-de954e0d-8aa2-4445-b8e1-ef246805437b.png)
 
 
 ->Site de Peinture 
 
-                                                   https://ravotcyril.github.io/Peinture/
+                                       https://ravotcyril.github.io/Peinture/
 ![SitePeinture](https://user-images.githubusercontent.com/76429223/155635658-8dc5e478-3a45-46d0-a292-e78a96389be0.png)
 
 
