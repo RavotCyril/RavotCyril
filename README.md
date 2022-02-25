@@ -11,7 +11,7 @@ Si vous voullez regarder mes différents projets effectués pendant ma formation
 ![logo-bootstrap50](https://user-images.githubusercontent.com/76429223/155632126-dff5b774-610b-4ba8-b41c-a4bd647adcd2.png)
 ![logo-js50](https://user-images.githubusercontent.com/76429223/155632133-94659048-3a45-49b5-ae17-622d1a1b170b.png)
 ![logo-node50-2](https://user-images.githubusercontent.com/76429223/155632136-e04022ec-6dcf-47e7-9410-70101ec18da8.png)
-![SEO-Logo](https://user-images.githubusercontent.com/76429223/155632165-1c2d5eab-94d2-4467-8e04-c7a2baadd884.png)
+![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
 ![logo-sql50](https://user-images.githubusercontent.com/76429223/155632176-ad1da1c5-54a5-43e7-adee-b3921a460d30.png)
 ![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632373-9948d540-3a8d-483e-b9df-9800618c583e.png)
 
