@@ -2,7 +2,8 @@
 ![maxresdefault](https://user-images.githubusercontent.com/76429223/155630038-1e573084-f1d3-471a-8812-3ec08133341f.jpg)
 
 
-Je suis un développeur Web Junior qui est sur le point de terminer la formation développeur Web chez OpenClassRooms. Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus en plus dans ce grand univers qui est le développement. 
+Je suis un développeur Web Junior qui est sur le point de terminer ça formation développeur Web chez OpenClassRooms. 
+Cela ma permit d'apprendre beaucoup de langages et de me perfectionner de plus en plus dans ce grand univers qui est le développement Web.
 
 ![logo-html50](https://user-images.githubusercontent.com/76429223/155632110-cd3d281a-9e91-4e43-aa27-a25512d94413.png)
 ![logo-css50](https://user-images.githubusercontent.com/76429223/155632121-4730c6ab-0722-4ac9-922a-22fde0dca604.png)
@@ -12,7 +13,7 @@ Je suis un développeur Web Junior qui est sur le point de terminer la formation
 ![179-1795999_audit-seo-search-engine-optimization-icon](https://user-images.githubusercontent.com/76429223/155632732-4f42e81c-32a2-4aca-b0d4-b629c60e0044.jpg)
 ![mysql_official_logo_icon_169938](https://user-images.githubusercontent.com/76429223/155632924-b434179d-2f50-4ebc-9963-cfbaf7ccabb7.png)
 
-HTML CSS Boostrap JS
+HTML5  CSS5   BOOSTRAP  JS  NODE  SEO   MySQL
 
 Si vous voulez regarder mes différents projets effectués pendant ma formation voici ci-joint la liste de mes projets : 
 
