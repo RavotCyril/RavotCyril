@@ -9,7 +9,7 @@ Ma présentation personnelle
 https://ravotcyril.github.io/PortfolioCyrilRavot/index.html
 
 
-Je suis un développeur Web en devenir qui est sur le point de terminer ça formation chez OpenClassRooms. 
+Je suis un développeur Web en devenir qui vient de terminer ça formation chez OpenClassRooms. 
 Cela ma permit d'apprendre énormement de langages, d'outils et de commencer à construire des sites webs. Voici - ci-dessous les différents langages et outils utilisés pendant ma formation. Je présente ensuite les  7 projets réalisés  avec les compétences requises et acquises pendant la réalisation de ces projets.
 
 Langages : 
